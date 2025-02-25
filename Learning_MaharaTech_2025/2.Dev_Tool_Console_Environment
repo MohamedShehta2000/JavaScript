@@ -1,0 +1,16 @@
+```js
+// Alert in a popup window
+alert("from console environment");
+
+// Display message in the console
+console.log("display in console only");
+
+// Display error in the console
+console.error("error");
+
+// Display warning in the console
+console.warn("warn");
+
+// Custom styled message in the console
+console.log("%c error message", "color:blue; background:yellow");
+```
