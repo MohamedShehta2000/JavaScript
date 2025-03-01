@@ -7,10 +7,10 @@
     <body>
          <script>
              var x = 10;
-             alert("this is alert");
+             alert("this is an alert");
              alert("value of x is:" + x);
              
-            var response = prompt("enter your name","mohamed");
+            var response = prompt("enter your name:","mohamed");
              
             var action = confirm("do want to continue?");
          
