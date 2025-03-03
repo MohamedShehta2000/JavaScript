@@ -7,8 +7,8 @@
     <body>
         <script>
             Function addTwoPara(x,y) {
-                // var sum = 0;
-                // sum = x + y ;
+                //var sum = 0;
+                sum = x + y ;
                 return x + y ;
             }
             var resullt = addTwoPara(5,6);
