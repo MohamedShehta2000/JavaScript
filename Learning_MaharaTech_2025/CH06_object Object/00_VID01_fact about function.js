@@ -24,4 +24,4 @@ function newAddingFunction (x, y, z){
     }
 }
 var result = newAddingFunction(1,2,3);
-console.log(result())
+console.log(result())//6
